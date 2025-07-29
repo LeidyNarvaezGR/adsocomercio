@@ -1,10 +1,10 @@
 body{
-    background-color: rgb(70, 126, 126);
+    background-color: rgb(31, 136, 150);
 }
 header{
     max-width: 1800px;
-    background-color: rgb(187, 131, 79);
-    color: beige;
+    background-color: rgb(73, 28, 19);
+    color: rgb(0, 0, 0);
     border-radius: 12px;
     padding: 10px;
     text-align: center;
@@ -25,7 +25,7 @@ nav a{
 main{
     width: 90%;
     margin: 0 auto;
-    background-color: rgb(216, 194, 165);
+    background-color: rgb(48, 19, 48);
     padding: 10px;
     border-radius: 12px;
 
@@ -34,9 +34,9 @@ section {
     width: 80%;
     padding: 12px;
     border-radius: 12px;
-    background-color: rgb(107, 139, 207);
+    background-color: rgb(79, 117, 199);
     margin: 0% auto;
-    box-shadow: 0 5px 12px rgb(26, 21, 21);
+    box-shadow: 0 5px 12px rgb(24, 20, 20);
 
 }
 
@@ -55,4 +55,18 @@ div{
 h2{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+}
+.parrafos{
+    text-align: justify;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 12px;
+}
+.titulo{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+h3{
+    text-align: justify;
 }
